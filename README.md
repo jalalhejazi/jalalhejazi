@@ -2,7 +2,7 @@
 
 ⚡ I am driven by a curiosity for technology and a love for learning by doing 🚀
 
-⚡  <a href="https://devops-mindset-2025.github.io/devops-mindset-2025/">10 Things that Inspire me: 🐝</a>
+⚡  <a href="https://jalalhejazi.github.io/jalalhejazi/">10 Things that Inspire me: 🐝</a>
  
 <br/>
 
@@ -19,6 +19,6 @@
 <div align="left">
   <h3> snake game 🐍 eating my contributions :</h3>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/devops-mindset-2025/devops-mindset-2025/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/jalalhejazi/jalalhejazi/blob/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
